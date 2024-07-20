@@ -12,7 +12,7 @@ export default function RTE({ name, label, conrol, defaultValue = "" }) {
         control={conrol}
         render={({ field: { onChange } }) => (
           <Editor
-            apiKey={conf.tinymceApiKey}
+            apiKey="78qg2skhnnue98uapyoozxila2i8xlxz38tglp4p0r5nuvqd"
             initialValue={defaultValue}
             init={{
               height: 500,
