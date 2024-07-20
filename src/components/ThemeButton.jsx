@@ -1,6 +1,6 @@
 import React from "react";
 import useTheme from "../context/theme";
-import { Switch } from '@chakra-ui/react'
+
 
 export default function ThemeButton() {
   const { themeMode, darkTheme, lightTheme } = useTheme();
