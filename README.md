@@ -11,3 +11,5 @@
  * Database: Appwrite Database
  * Authentication: Appwrite Auth
 
+ [LIVE DEMO](https://bloga-app.netlify.app/)
+
