@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+input:checked + .toggle-slider {
+  @apply bg-blue-500;
+}
+
+input:checked + .toggle-slider + .toggle-slider-dot {
+  @apply translate-x-4;
+}
