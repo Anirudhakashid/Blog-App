@@ -10,5 +10,6 @@
  * Backend: Appwrite (Backend-as-a-Service)
  * Database: Appwrite Database
  * Authentication: Appwrite Auth
- # Deployment
-  *  Check out the live application here: [Blog Application Live](https://blogginapp.netlify.app/)
+
+ [LIVE DEMO](https://bloga-app.netlify.app/)
+
